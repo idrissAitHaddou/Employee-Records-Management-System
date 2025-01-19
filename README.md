@@ -29,7 +29,7 @@ The **Employee Records Management System** is an authentication and authorizatio
 ### Prerequisites
 
 Ensure you have the following installed:
-- Java 17 or higher
+- Java 17
 - Maven
 - Docker (for database container)
 
