@@ -1,6 +1,6 @@
 # Employee Records Management System
 
-The **Employee Records Management System** is a robust application designed to manage employee records efficiently. It allows administrators to create, read, update, and delete employee data while ensuring secure authentication and authorization.
+The **Employee Records Management System** is an authentication and authorization system that allows administrators to perform CRUD operations on employee data.
 
 ---
 
@@ -9,8 +9,8 @@ The **Employee Records Management System** is a robust application designed to m
 - User authentication and role-based access control
 - CRUD operations for employee records
 - Integration with relational databases (e.g., PostgreSQL)
-- Secure REST API with JWT-based authentication
-- Spring Boot-based backend for scalable and maintainable architecture
+- REST API that is secured and authentication with JWT
+- Spring Boot for maintaining scalable service architecture
 
 ---
 
